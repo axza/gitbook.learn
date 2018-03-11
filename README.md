@@ -1,4 +1,4 @@
-# OpenGeoEdu-GitBook
+# OpenGeoEdu-GitBook {#start}
 
-open source, data, learning, science 
+open source, data, learning, science
 
