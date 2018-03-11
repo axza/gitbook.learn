@@ -7,6 +7,6 @@ child_type: docs
 
 ### Chapter 3
 
-# Advanced
+# Advanceddd
 
 Get into the **nitty gritty** with these advanced topics
