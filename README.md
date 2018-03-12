@@ -2,8 +2,6 @@
 
 open source, data, learning, science
 
-
-
 # h1
 
 ## h2
@@ -12,9 +10,7 @@ open source, data, learning, science
 
 pragraph
 
-!\[\]\(https://www.opengeoedu.de/logo/oge\_logo.png\)
-
-
+!\[\]\(https://commons.wikimedia.org/wiki/File:Example\_de.jpg "Beispielbild"\)
 
 
 
